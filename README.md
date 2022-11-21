@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+I am an software engineer, 30 something, specialize in JavaScript, TypeScript and web development.
+
+Other interests:
+- Electric Guitar 🎸
+- Cycling 🚵
+- Hiking ⛰️
+- Books 📚
+- Education 👨‍🏫
+- Nature 🍂
+
+I live somewhere in Italy.
+
+<a rel="me" href="https://webperf.social/@mariopisaturo">Also follow me on Mastodon!</a>
+
+
 <!--
 **MarioPisaturo/MarioPisaturo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
