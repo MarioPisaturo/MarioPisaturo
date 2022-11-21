@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I'm Mario, a software engineer and web performance ark at IBM CIC Italy where I work on making our customers solve some fascinating performance challenges. Previously I worked at Sky Italia, helping making their site fast for millions of users. 
+I am a software engineer and web performance ark at IBM,  where I work in order to help our costumers solve some fascinating performance challenges. 
+Previously I worked at Sky It; there I used to make their sites faster for million of users.
 
-I am 30 something, specialized in JavaScript, TypeScript and web development.
+Im 30 something, specialized in javaScript, typeScript and web development.
 
 Other interests:
 - Electric Guitar 🎸
