@@ -3,7 +3,7 @@
 I am a software engineer and web performance ark at IBM,  where I work in order to help our costumers solve some fascinating performance challenges. 
 Previously I worked at Sky It; there I used to make their sites faster for million of users.
 
-Im 30 something, specialized in javaScript, typeScript and web development.
+Im 30 something, specialized in Javascript, Typescript and web development.
 
 Other interests:
 - Electric Guitar 🎸
