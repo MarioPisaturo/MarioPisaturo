@@ -14,7 +14,7 @@ Other interests:
 
 I live somewhere in Italy.
 
-Also follow me on <a rel="me" href="https://webperf.social/@mariopisaturo"> Mastodon</a>
+Also follow me on <a rel="me" href="https://webperf.social/@mariopisaturo"> Mastodon</a> and on my personal  <a href="https://mariopisaturo.netlify.app/"> Blog</a> (still WIP!)
 
 
 <!--
